@@ -1,29 +1,19 @@
-# axios-vue
 
-## Project setup
+# axios-demo
+axios封装演示
+
+启动服务器
+
+
 ```
+cd axios_node_api-master
 npm install
+node index.js
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+安装项目依赖包并在开发环境下启动项目
 
-### Compiles and minifies for production
 ```
-npm run build
+yarn install
+yarn serve
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
